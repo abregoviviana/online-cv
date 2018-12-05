@@ -44,9 +44,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      
-
-      Second paragraph if required.
+      As a student at the University of Tulsa, I have gone through several training sessions for several applications. 
+      The type of training I went through can be found below as well as my level of proviency for each skill. 
 
 education:
     - degree: MS in Accounting
@@ -58,22 +57,14 @@ education:
       time: 2013 - 2017
 
 experiences:
-    - role: Lead Developer
+    - role: GitHub
       time: 2015 - Present
       company: Startup Hubs, San Francisco
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        
 
-          - Bullet point
-          - Bullet point
+          - Date Completed: August 28, 2018
+          - Proof of Completion: smallheadshot.png
 
     - role: Senior Software Engineer
       time: 2014 - 2015
