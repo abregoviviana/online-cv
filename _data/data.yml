@@ -58,13 +58,14 @@ education:
 
 experiences:
     - role: GitHub
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      time: August 28, 2018
+      #company: Startup Hubs, San Francisco
       details: |
         
 
-          - Date Completed: August 28, 2018
-          - Proof of Completion: smallheadshot.png
+          - 
+          - Proof of Completion: <img src=skills-page/assets/images/smallheadshot.png>
+      
 
     - role: Senior Software Engineer
       time: 2014 - 2015
