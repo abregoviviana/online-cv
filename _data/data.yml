@@ -64,7 +64,7 @@ experiences:
         
 
           - 
-          - Proof of Completion: <img src=skills-page/assets/images/smallheadshot.png>
+          - Proof of Completion: "skills-page/assets/images/smallheadshot.png"
       
 
     - role: Senior Software Engineer
