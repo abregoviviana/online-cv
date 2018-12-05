@@ -107,7 +107,6 @@ skills:
     toolset:
       - name: GitHub
         level: 25
-        - open-sourced
 
       - name: Powershell
         level: 15%
