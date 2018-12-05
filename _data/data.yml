@@ -15,8 +15,8 @@ sidebar:
     email: vivianaabrego@gmail.com
     phone: 956-579-4060
     # website: blog.webjeda.com #do not add http://
-    linkedin: abrego-viviana
-    github: abregoviviana
+    linkedin: viviana-abrego
+    github: viviana-abrego
     # gitlab:
     # bitbucket:
     #twitter: '@webjeda'
@@ -107,6 +107,7 @@ skills:
     toolset:
       - name: GitHub
         level: 25%
+        - open-sourced
 
       - name: Powershell
         level: 15%
