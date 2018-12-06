@@ -67,7 +67,7 @@ experiences:
     - role: Powershell
       time: December 2, 2018
       #company: Google, London
-      completion: smallheadshot.png
+      #completion: smallheadshot.png
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
