@@ -67,7 +67,7 @@ experiences:
     - role: Powershell
       time: December 2, 2018
       #company: Google, London
-      completion: smallheadshot.png
+      #completion: smallheadshot.png
       details: |
         PowerShell is an open-source scripting language that lets you manage computers from the command-line. 
         Based on the .NET framework (a controlled programming environment created by Microsoft for developing software), 
