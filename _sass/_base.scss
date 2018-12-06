@@ -187,6 +187,10 @@ p {
         margin-bottom: 0;
         font-weight: 500;
     }
+    .completion {
+        margin-bottom: 10px;
+        color: $text-grey;
+    }
     .time {
         position: absolute;
         right: 0;
