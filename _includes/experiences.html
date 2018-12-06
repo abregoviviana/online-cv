@@ -29,9 +29,11 @@
     {% endif %}
     </div><!--//details-->
     
-    {% if experience.details %}
-     <img class="completion" src="{{ site.baseurl }}/assets/images/{{ experience.completion }}" alt="proof of completion" />
+    {% if experience.completion %}
+    <div class="completion">
+      <img src="{{ site.baseurl }}/assets/images/{{ experience.completion }}" alt="proof of completion" />
     {% endif %}
+    </div><!--//completion-->
 
   </div><!--//item-->
   {% endfor %}
