@@ -28,6 +28,12 @@
       {{ experience.details | markdownify }}
     {% endif %}
     </div><!--//details-->
+    
+    {% if experience.completion %}
+    <div class="completion">
+      <img class="completion" src="{{ site.baseurl }}/assets/images/{{ experiences.experience.completion }}" alt="proof of completion" />
+    {% endif %}
+    </div> 
 <!--    
     {% if experience.completion %}
     <div class="completion">
