@@ -61,14 +61,15 @@ experiences:
       time: August 28, 2018
       #company: Startup Hubs, San Francisco
       details: |
+         GitHub is an open-source, version control system developed by Linus Torvalds (the creator of Linux) 
+         that helps developers store, manage, track and control changes to their code.
+      completion: 
 
-          - 
-          - Proof of Completion: 
       
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Powershell
+      time: December 2, 2018
+      #company: Google, London
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -81,7 +82,7 @@ experiences:
 
     - role: UI Developer
       time: 2012 - 2014
-      company: Amazon, London
+      #company: Amazon, London
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
