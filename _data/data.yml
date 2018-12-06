@@ -19,7 +19,7 @@ sidebar:
     github: abregoviviana
     # gitlab:
     # bitbucket:
-    twitter: '@webjeda'
+    #twitter: '@webjeda'
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     #codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
@@ -63,7 +63,7 @@ experiences:
       details: |
          GitHub is an open-source, version control system developed by Linus Torvalds (the creator of Linux) 
          that helps developers store, manage, track and control changes to their code.
-      completion: 
+      #completion: 
 
       
 
