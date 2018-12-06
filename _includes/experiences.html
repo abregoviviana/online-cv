@@ -31,16 +31,10 @@
     
     {% if experience.completion %}
     <div class="completion">
-      <img class="completion" src="{{ site.baseurl }}/assets/images/{{ experiences.completion }}" alt="proof of completion" />
+      <img class="completion" src="{{ site.baseurl }}/assets/images/{{ experience.completion }}" alt={{ experience.completion }} />
     {% endif %}
     </div> 
-<!--    
-    {% if experience.completion %}
-    <div class="completion">
-      <img src="{{ site.baseurl }}/assets/images/{{ experience.completion }}" alt="proof of completion" />
-    {% endif %}
-    </div>
-//completion-->
+
 
   </div><!--//item-->
   {% endfor %}
