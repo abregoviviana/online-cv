@@ -63,7 +63,7 @@ experiences:
       details: |
          GitHub is an open-source, version control system developed by Linus Torvalds (the creator of Linux) 
          that helps developers store, manage, track and control changes to their code.
-      completion: 
+      #completion: 
 
       
 
@@ -76,7 +76,7 @@ experiences:
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
-      completion: 
+      #completion: 
 
           - Bullet point
           - Bullet point
@@ -90,7 +90,7 @@ experiences:
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
-      completion: 
+      #completion: 
 
           - Bullet point
           - Bullet point
