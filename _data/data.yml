@@ -76,7 +76,9 @@ experiences:
 
           - Bullet point
           - Bullet point
-
+          
+      completion: smallheadshot.png
+      
     - role: UI Developer
       time: 2012 - 2014
       #company: Amazon, London
