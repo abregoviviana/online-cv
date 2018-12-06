@@ -61,11 +61,9 @@ experiences:
       time: August 28, 2018
       #company: Startup Hubs, San Francisco
       details: |
-      completion: smallheadshot.png
-        
 
           - 
-          - Proof of Completion: '/skills-page/assets/images/smallheadshot.png'
+          - Proof of Completion: 
       
 
     - role: Senior Software Engineer
