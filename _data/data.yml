@@ -63,20 +63,15 @@ experiences:
       details: |
          GitHub is an open-source, version control system developed by Linus Torvalds (the creator of Linux) 
          that helps developers store, manage, track and control changes to their code.
-     
+
     - role: Powershell
       time: December 2, 2018
       #company: Google, London
       #completion: smallheadshot.png
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point    
+        PowerShell is an open-source scripting language that lets you manage computers from the command-line. 
+        Based on the .NET framework (a controlled programming environment created by Microsoft for developing software), 
+        PowerShell can be used on Windows, macOS and Linux platforms to automate and configure various administrative tasks. 
        
     - role: UI Developer
       time: 2012 - 2014
