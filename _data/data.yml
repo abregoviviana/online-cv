@@ -73,18 +73,28 @@ experiences:
         Based on the .NET framework (a controlled programming environment created by Microsoft for developing software), 
         PowerShell can be used on Windows, macOS and Linux platforms to automate and configure various administrative tasks. 
        
-    - role: UI Developer
-      time: 2012 - 2014
+    - role: PowerBI
+      time: November 25, 2018
       #company: Amazon, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        PowerBI is a data analytics service that helps analysts create detailed visuals of their data. 
+        Available as a desktop application and as a service online for mobile use, PowerBI also allows 
+        you to share your reports with collegues on any device.
+        
+    - role: AWS
+      time: November 4, 2018
+      #company: Amazon, London
+      details: |
+        Amazon Web Services provides a suite of cloud computing services. The AWS Cloud Essentials 
+        training explains the list of services AWS provides, the benefits and drawbacks to using AWS, 
+        and pricing details for each service.
 
-          - Bullet point
-          - Bullet point
+    - role: Linux
+      time: December 3, 2018
+      #company: Amazon, London
+      details: |
+        Created by Linus Torvalds, Linux is a open-source operating system and a clone of the Unix operating system. 
+        With Linux, you can either download the kernel or the distribution system.
 
 skills:
     title: Skills &amp; Proficiency
